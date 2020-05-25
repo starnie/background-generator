@@ -6,6 +6,8 @@ body {
     letter-spacing: 0.5em;
     top: 15%;
     background: linear-gradient(to right, red, yellow);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 h1 {
